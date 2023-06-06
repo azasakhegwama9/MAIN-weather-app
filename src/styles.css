@@ -1,0 +1,100 @@
+body {
+    background-image: url('https://s3.amazonaws.com/shecodesio-production/uploads/files/000/081/734/original/clouds.jpg?1683975406');
+    color: azure;
+      
+}
+h1 {
+    font-family: 'Marmelad', sans-serif;
+    font-size: 56px;
+    color: azure;
+    
+}
+img {
+    border-radius:100px;
+    width: 150px;
+}
+.card {
+    width: 600px;
+    fill: none;
+    background: transparent;
+    background-color: transparent;
+    border: none;
+    margin-bottom: 16px;
+}
+.details {
+    top:220px;
+    left: 520px;
+    position: fixed;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+    vertical-align: super;
+    font-size: smaller;
+}
+a:hover {
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+    text-decoration: underline;
+}
+p {
+    font-size: 28px;
+    font-weight: 700;
+}
+ul {
+    list-style:circle;
+}
+.row .col-12 {
+    font-size: 22px;
+    color: lavender;
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+span {
+    position: relative;
+    top:0;
+    left:200px;
+}
+.tues {
+    position: relative;
+    top:0;
+    left:195px;
+}
+.wed {
+    position: relative;
+    top:0;
+    left:165px;
+}
+.thurs {
+    position: relative;
+    top:0;
+    left:185px;
+}
+.icon {
+    position: relative;
+    top:0;
+    left:150px;
+}
+.icon-1 {
+    position: relative;
+    top:0;
+    left:155px;
+}
+button {
+    color: whitesmoke;
+    background: green;
+    border: 1px solid gray;
+    border-radius: 3px;
+    transition: all 200ms linear;
+    position: relative;
+    bottom:60px;
+    left:60px;
+}
+
+button:hover {
+    background: lightgreen;
+    color: gray;
+    cursor: pointer;
+}
+
