@@ -13,6 +13,9 @@ img {
     border-radius:300px;
     width: 100px;
 }
+li {
+    list-style: none;
+}
 .card {
     width: 600px;
     fill: none;
@@ -100,8 +103,9 @@ button:hover {
 .end-line{
     text-align: right;
     font-size: 18px;
-    position: relative;
-    left:170px;
+    position: fixed;
+    top: 620px;
+    left:100px;
     font-family:cursive;
 }
 
