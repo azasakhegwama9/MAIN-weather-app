@@ -10,8 +10,8 @@ h1 {
     
 }
 img {
-    border-radius:100px;
-    width: 150px;
+    border-radius:300px;
+    width: 100px;
 }
 .card {
     width: 600px;
@@ -96,5 +96,12 @@ button:hover {
     background: lightgreen;
     color: gray;
     cursor: pointer;
+}
+.end-line{
+    text-align: right;
+    font-size: 18px;
+    position: relative;
+    left:170px;
+    font-family:cursive;
 }
 
